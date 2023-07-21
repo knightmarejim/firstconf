@@ -1,5 +1,7 @@
 # firstconf
 First Configuration
+呆呆獸沒成功QQ
+
                                   _.---\"'\"\"\"\"\"'`--.._
                              _,.-'                   `-._
                          _,.\"                            -.
